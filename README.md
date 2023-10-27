@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on project related to Building Products.
 - 📫 How to reach me ...
 - You can reach me at timmyadet@gmail.com, also on twitter @timmyadet
+
+- 
 - <a href="https://app.daily.dev/timmyadet"><img src="https://api.daily.dev/devcards/9198e09db319452ba4107e673ac0465b.png?r=q23" width="400" alt="Timmy Adet's Dev Card"/></a>
 
 <!---
